@@ -17,3 +17,8 @@
    other?
  * (optional) add and commit the changes to basic_types.cpp to your git
    repository.
+4. expressions.cpp
+ * look at the code and decide what values are printed
+ * run the code and check your answers
+ * add some code to test the difference between pre and post-increment or
+   decrement operators.
