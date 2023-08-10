@@ -27,3 +27,8 @@
  * Compile and run the code, with and without some arguments on the command
    line.  Do you understand the results.
  * Add some code for the 4th section.
+6. scope.cpp
+ * This code has several errors. Fix them so that the code works and produces a
+   useful result.
+ * Modify the code to get tempf via the command line argument.
+ * What happens if you type in nonsense?  How might you deal with that?
