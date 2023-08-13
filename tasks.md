@@ -31,4 +31,9 @@
  * This code has several errors. Fix them so that the code works and produces a
    useful result.
  * Modify the code to get tempf via the command line argument.
+ * What happens if you call tempf with an int argument instead of a double.
  * What happens if you type in nonsense?  How might you deal with that?
+ * Write an overloaded version of tempf which takes an int argument instead of a
+   double and behaves slightly differently. Have it return a value that is
+   rounded to the closest whole number.  Does it matter if the return type is
+   int or double in this case?
