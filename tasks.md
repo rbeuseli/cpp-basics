@@ -38,7 +38,7 @@
    rounded to the closest whole number.  Does it matter if the return type is
    int or double in this case?
  * The overloaded function is arguably confusing and may lead to mistakes.
-   Modify the code to place this function in a new namespace, e.g round::
+   Modify the code to place this function in a new namespace, e.g RND::
    Also change the input argument back to a double, while still keeping the
    rounding behaviour.  Modify main as needed to call both versions and text the
    behaviour.
