@@ -47,3 +47,10 @@
    Also change the input argument back to a double, while still keeping the
    rounding behaviour.  Modify main as needed to call both versions and test the
    behaviour.
+
+7. sort.cpp
+ * Write a program to sort an array of 100 doubles into ascending order.  Use at
+   least one function (in addition to main) to perform the actual sorting.  Pass
+   the array to be sorted as an argument.  Specify the name of the file of
+   numbers to be sorted via a command line argument.  Use the file numbers.txt
+   as input.
