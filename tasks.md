@@ -53,4 +53,5 @@
    least one function (in addition to main) to perform the actual sorting.  Pass
    the array to be sorted as an argument.  Specify the name of the file of
    numbers to be sorted via a command line argument.  Use the file numbers.txt
-   as input.
+   as input. Print out the numbers, several to a line, in a reasonable format.
+   What is 5th largest number in the set?
