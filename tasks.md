@@ -54,4 +54,5 @@
    the array to be sorted as an argument.  Specify the name of the file of
    numbers to be sorted via a command line argument.  Use the file numbers.txt
    as input. Print out the numbers, several to a line, in a reasonable format.
-   What is 5th largest number in the set?
+   What is 5th largest number in the set?  Print it out.
+   Print out the number of element swaps your method takes.
