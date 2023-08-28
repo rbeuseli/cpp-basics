@@ -1,4 +1,4 @@
-# C++ exercises
+# Basic C++ exercises
 1. Place directory under version control with git
  * git init
  * git add
